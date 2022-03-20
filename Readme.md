@@ -1,0 +1,1 @@
+Parte da estrutura de dados JS vista no curso Dev Samurai
